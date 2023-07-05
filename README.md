@@ -13,9 +13,3 @@
  
  <br>
  
-<div> 
-  
- 
-  ![Snake animation](https://github.com/eric4862/eric4862/blob/output/github-contribution-grid-snake.svg)
-
-</div>
